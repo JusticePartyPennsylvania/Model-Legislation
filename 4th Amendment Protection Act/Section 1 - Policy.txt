@@ -4,4 +4,7 @@ THE PEOPLE OF THE COMMONWEALTH OF PENNSYLVANIA DO ENACT AS FOLLOWS:
 
 SECTION 1. Policy 
  
-A. It is the policy of this state to refuse material support, participation or assistance, to any federal agency which claims the power, or with any federal law, rule, regulation, or order which purports to authorize the collection of electronic data or metadata of any person(s) pursuant to any action not based on a warrant that particularly describes the person(s), place(s) and thing(s) to be searched or seized. 
+A. It is the policy of this state to refuse material support, participation or assistance, to any federal agency which 
+claims the power, or with any federal law, rule, regulation, or order which purports to authorize the collection of 
+electronic data or metadata of any person(s) pursuant to any action not based on a warrant that particularly describes the 
+person(s), place(s) and thing(s) to be searched or seized. 

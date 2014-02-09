@@ -1,3 +1,4 @@
 SECTION 4. Severability 
  
-The provisions of this act are severable. If any part of this act is declared invalid or unconstitutional, that declaration shall not affect the part which remains. 
+The provisions of this act are severable. If any part of this act is declared invalid or unconstitutional, that declaration 
+shall not affect the part which remains. 
