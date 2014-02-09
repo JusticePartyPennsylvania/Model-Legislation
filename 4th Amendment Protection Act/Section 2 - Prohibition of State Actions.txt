@@ -1,0 +1,11 @@
+SECTION 2. Prohibition on State Actions 
+ 
+A. Notwithstanding any law, regulation, rule or order to the contrary, no agency of this state, political subdivision of this state, or employee of an agency or political subdivision acting in his or her official capacity, or corporation providing services on behalf of this state or a political subdivision of this state shall: 
+
+  1) Provide material support, participation or assistance in any form, with any federal agency which claims the power, or with any federal law, rule, regulation, order which purports to authorize, the collection of electronic data or metadata of any person(s) pursuant to any action not based on a warrant that particularly describes the person(s), place(s) and thing(s) to be searched or seized. 
+  
+  2) Utilize any assets, state funds or funds allocated by the state to local entities on or after (DATE), in whole or in part, to engage in any activity that aids a federal agency, federal agent, or corporation providing services to the federal government in the collection of electronic data or metadata of any person(s) pursuant to any action not based on a warrant that particularly describes the person(s), place(s) and thing(s) to be searched or seized. 
+
+  3) Provide services, or participate or assist in any way with the providing of services to a federal agency, federal agent, or corporation providing services to the federal government which is involved in the collection of electronic data or metadata of any person(s) pursuant to any action not based on a warrant that particularly describes the person(s), place(s) and thing(s) to be searched or seized. 
+  
+  4) Use any information in a criminal investigation or prosecution provided by any federal agency, agent, or corporation providing services to the federal government, which was obtained through the collection of electronic data or metadata of any person(s) pursuant to any action not based on a warrant that particularly describes the person(s), place(s) and thing(s) to be searched or seized. 
